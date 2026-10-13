@@ -1,69 +1,82 @@
-AXBet - Terms of Use (TOU)
-Effective Date: October 13, 2026
-Project: AXBet
+AXBet — Official Releases & Downloads
+Official repository for AXBet version history, releases, and compliance documentation.
+Maintained by Allagosh Systems.
+
+Current Release: v15.0.0 | versionCode: 15 | Package: com.axbet.app | Status: Stable
+
+Repo: https://github.com/allagoshsystems/AXBET-Version-Controllers-Downloads
+
+📱 About AXBet
+AXBet is a proprietary Android application developed and owned by Allagosh Systems.
+It is NOT licensed, franchised, or white-labeled by any third-party betting organization.
+
 Owner: Allagosh Systems
-Contact: support@allagoshsystems.com
-Repository: https://github.com/allagoshsystems/AXBET-Version-Controllers-Downloads
+App ID: com.axbet.app
+Copyright: © 2026 AXBet / Allagosh Systems. All Rights Reserved.
+Contact: fajr.ent@gmail.com
+📦 What This Repository Contains
+This repository is used ONLY for:
 
-1. Acceptance of Terms
-By downloading, installing, or using AXBet (the "App"), you agree to these Terms of Use. If you do not agree, do not use the App.
+Official AXBet APK releases (in Releases section)
+Version history and changelogs
+Compliance files required by app stores (LICENSE, NOTICE, TERMS)
+Update control documentation
+This is not the full source code repository. The full source is proprietary and private.
 
-2. Eligibility
-You must be at least 18 years old (or legal age in your jurisdiction) to use AXBet.
-You are responsible for ensuring that using AXBet is legal in your country/region.
-AXBet does not offer real-money gambling unless explicitly licensed in your region. Users must comply with local laws.
-3. Nature of Service
-AXBet provides information, version updates, and app downloads. Any betting-related features are for informational/entertainment purposes unless otherwise stated and licensed.
+🔄 Update Controls & Version Management
+Current Build Config (v15.0.0)
+namespace = "com.axbet.app"
+applicationId = "com.axbet.app"
+minSdk = 24 (Android 7.0+)
+targetSdk = 36
+compileSdk = 36
+versionCode = 15
+versionName = "15.0.0"
+How We Control Updates
+versionCode is incremented by 1 for every new release (14 -> 15 -> 16). Android uses this to detect updates.
+versionName is semantic (15.0.0) and shown to users.
+All APKs are built from our private source repo, tested, then published here as new Release tag.
+Old releases are never deleted - history is preserved.
+Version History
+Version	versionCode	Package	Date	Highlights
+v15.0.0	15	com.axbet.app	Oct 13, 2026	New package ID, Material 3, Firebase Auth & Firestore, Credentials API
+v14.0.0	14	com.example.axbet	Oct 13, 2026	Compose Material 3 Update
+v12.0.0	12	com.example.axbet	Oct 06, 2026	Previous stable
+Full changelog is in the Releases Page
 
-4. User Responsibilities
-You agree NOT to:
+📥 Downloads
+Official: Go to Releases -> Select v15.0.0 -> Download APK
+Requirement: Android 7.0 (API 24)+
 
-Reverse engineer, decompile, or redistribute the APK
-Use AXBet for illegal activities
-Attempt to hack, bypass security, or overload servers
-Use automated bots or scripts without permission
-5. Accounts
-If the App requires login (Firebase Auth / Google Sign-In):
+©️ License & Compliance - For Uptodown
+Main App License (Proprietary):
 
-You are responsible for keeping your credentials secure
-One person may not create multiple accounts to abuse promotions
-6. Intellectual Property
-Copyright © 2026 AXBet / Allagosh Systems. All Rights Reserved.
-AXBet name, logo, graphics are proprietary.
-Third-party libraries remain under their own licenses (see NOTICE.md)
-7. Third-Party Services
-AXBet uses Firebase, Google Play Services, YouTube Player, and other third-party SDKs. Their own terms and privacy policies apply:
+Copyright © 2026 AXBet / Allagosh Systems. All Rights Reserved. App ID com.axbet.app
 
-Firebase: https://firebase.google.com/terms
-Google: https://policies.google.com/terms
-8. Disclaimer of Warranties
-The App is provided "AS IS" without warranties of any kind. We do not guarantee that the App will be error-free, uninterrupted, or 100% accurate. Betting involves risk; you are solely responsible for any decisions.
+License File: LICENSE.md - Use for Uptodown License URL
+Third-Party Notices: NOTICE.md - All open-source licenses - Use for Notice URL
+Terms of Use: TERMS.md - Use for Terms URL
+Uptodown Submission URLs (Ready to Use):
 
-9. Responsible Use
-If AXBet includes any gaming/betting information:
+License URL: https://github.com/allagoshsystems/AXBET-Version-Controllers-Downloads/blob/main/LICENSE.md
+Notice URL: https://github.com/allagoshsystems/AXBET-Version-Controllers-Downloads/blob/main/NOTICE.md
+Terms URL: https://github.com/allagoshsystems/AXBET-Version-Controllers-Downloads/blob/main/TERMS.md
+Source URL: https://github.com/allagoshsystems/AXBET-Version-Controllers-Downloads
+Package Name: com.axbet.app
+Version: 15.0.0 (15)
+🛠️ Tech Stack (v15.0.0)
+Kotlin + Jetpack Compose + Material 3 + Material Icons Extended
+AndroidX: Core KTX, Lifecycle, Activity Compose, RecyclerView, Credentials
+Firebase: Auth, Firestore (BOM)
+Google: Play Services Auth, Google ID
+Image: Coil Compose, YouTube Player
+Async: Kotlinx Coroutines
+🔒 Note for Uptodown Reviewers
+AXBet (com.axbet.app) is an original application developed and owned by Allagosh Systems.
+It is NOT a franchise, licensed, or white-labeled service of 1xBet, Bet365 or any third-party.
+All code and branding are original. For verification: support@allagoshsystems.com
 
-Play responsibly
-Do not bet more than you can afford to lose
-If you have a gambling problem, seek help in your jurisdiction
-10. Limitation of Liability
-To the maximum extent permitted by law, Allagosh Systems and AXBet shall not be liable for any indirect, incidental, or consequential damages arising from use of the App.
-
-11. Updates and Changes
-We may update the App (v14.0.0 and future versions) and these Terms. Continued use after updates means you accept the new Terms. Version history is available in the GitHub Releases section.
-
-12. Termination
-We may suspend or terminate your access if you violate these Terms.
-
-13. Privacy
-Your use is also governed by our Privacy Policy. Firebase Authentication data is handled per Firebase Privacy.
-
-14. Governing Law
-These Terms are governed by the laws applicable to Allagosh Systems, without regard to conflict of law principles.
-
-15. Contact
-For questions about these Terms:
-Email: support@allagoshsystems.com
-GitHub: https://github.com/allagoshsystems/AXBET-Version-Controllers-Downloads/issues
-
-By using AXBet, you acknowledge that you have read, understood, and agreed to these Terms and our NOTICE and LICENSE files.
-
+📞 Contact
+Issues: https://github.com/allagoshsystems/AXBET-Version-Controllers-Downloads/issues
+Email: fajr.ent@gmail.com
+All Rights Reserved - AXBet v15.0.0 (com.axbet.app) / Allagosh Systems - 2026
