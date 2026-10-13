@@ -23,7 +23,7 @@ If you discover a security vulnerability in the official AXBet app, please help 
 
 Instead, report privately:
 
-**Email:** officialallagoshsystems@proton.me  
+**Email:** fajr.ent@gmail.com  
 **Subject:** [SECURITY] AXBet v15.0 - Vulnerability Report
 
 Please include:
