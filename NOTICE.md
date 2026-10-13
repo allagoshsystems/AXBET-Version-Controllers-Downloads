@@ -1,6 +1,6 @@
 AXBet - Third Party Notices
-Version: 14.0.0 (versionCode 14)
-Package: com.example.axbet
+Version: 15.0.0 (versionCode 15)
+Package: com.axbet.app
 
 This application uses the following open-source and third-party components.
 We thank the authors and contributors of these projects.
@@ -71,7 +71,7 @@ This NOTICE file is provided to comply with Apache License 2.0 Section 4(d) and 
 All third-party trademarks remain property of their respective owners.
 
 If any library is missing or you are the copyright holder and want correction, contact:
-support@allagoshsystems.com / Allagosh Systems
+fajr.ent@gmail.com / Allagosh Systems
 
 Main App License:
 Copyright © 2026 AXBet / Allagosh Systems. All Rights Reserved. Proprietary.
