@@ -23,7 +23,7 @@ This is to certify that AXBet with package ID `com.axbet.app` is an original app
 
 **Allagosh Systems®**  
 Peshawar, Khyber Pakhtunkhwa, Pakistan  
-Official GitHub: `github.com/officialallagoshsystems/axbet`  
+Official GitHub: `https://github.com/allagoshsystems/AXBET-Version-Controllers-Downloads`  
 Contact: fajr.ent@gmail.com
 
 This code, branding, name "AXBet", and package ID `com.axbet.app` are intellectual property of Allagosh Systems®.
