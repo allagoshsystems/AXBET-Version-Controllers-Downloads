@@ -74,7 +74,7 @@ Async: Kotlinx Coroutines
 🔒 Note for Uptodown Reviewers
 AXBet (com.axbet.app) is an original application developed and owned by Allagosh Systems.
 It is NOT a franchise, licensed, or white-labeled service of 1xBet, Bet365 or any third-party.
-All code and branding are original. For verification: support@allagoshsystems.com
+All code and branding are original. For verification: fajr.ent@gmail.com
 
 📞 Contact
 Issues: https://github.com/allagoshsystems/AXBET-Version-Controllers-Downloads/issues
