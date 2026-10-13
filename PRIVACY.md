@@ -42,7 +42,7 @@ AXBet is not intended for children under 18. We do not knowingly collect data fr
 You can:
 
 Uninstall the app at any time to stop all data collection
-Request deletion of crash logs by emailing us at officialallagoshsystems@proton.me with your device ID
+Request deletion of crash logs by emailing us at fajr.ent@gmail.com with your device ID
 8. Changes to This Policy
 If we update this policy, we will update the date at the top and publish the new file in this GitHub repository at /PRIVACY.md.
 
