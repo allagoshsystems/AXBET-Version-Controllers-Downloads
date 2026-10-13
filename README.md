@@ -71,7 +71,7 @@ Firebase: Auth, Firestore (BOM)
 Google: Play Services Auth, Google ID
 Image: Coil Compose, YouTube Player
 Async: Kotlinx Coroutines
-🔒 Note for Uptodown Reviewers
+🔒 Note for Uptodown or another app store Reviewers
 AXBet (com.axbet.app) is an original application developed and owned by Allagosh Systems.
 It is NOT a franchise, licensed, or white-labeled service of 1xBet, Bet365 or any third-party.
 All code and branding are original. For verification: fajr.ent@gmail.com
