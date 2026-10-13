@@ -14,4 +14,4 @@ You may NOT:
 
 Third-party libraries used in this app remain under their own licenses as listed in NOTICE.md
 
-For licensing inquiries: support@allagoshsystems.com
+For licensing inquiries: fajr.ent@gmail.com
