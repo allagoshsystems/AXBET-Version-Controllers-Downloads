@@ -2,7 +2,7 @@ AXBet — Official Releases & Downloads
 Official repository for AXBet version history, releases, and compliance documentation.
 Maintained by Allagosh Systems.
 
-Current Release: v15.0.0 | versionCode: 15 | Package: com.axbet.app | Status: Stable
+Current Release: v17.0.0 | versionCode: 17 | Package: com.axbet.app | Status: Stable
 
 Repo: https://github.com/allagoshsystems/AXBET-Version-Controllers-Downloads
 
@@ -17,7 +17,7 @@ Contact: fajr.ent@gmail.com
 📦 What This Repository Contains
 This repository is used ONLY for:
 
-Official AXBet APK releases (in Releases section)
+Official AXBet APK releases (in Releases section) and its continued by V15
 Version history and changelogs
 Compliance files required by app stores (LICENSE, NOTICE, TERMS)
 Update control documentation
@@ -33,7 +33,7 @@ compileSdk = 36
 versionCode = 15
 versionName = "15.0.0"
 How We Control Updates
-versionCode is incremented by 1 for every new release (14 -> 15 -> 16). Android uses this to detect updates.
+versionCode is incremented by 1 for every new release (14 -> 15 -> 16). Android uses this to detect updates. And officially is continued by V15
 versionName is semantic (15.0.0) and shown to users.
 All APKs are built from our private source repo, tested, then published here as new Release tag.
 Old releases are never deleted - history is preserved.
@@ -45,7 +45,7 @@ v12.0.0	12	com.example.axbet	Oct 06, 2026	Previous stable
 Full changelog is in the Releases Page
 
 📥 Downloads
-Official: Go to Releases -> Select v15.0.0 -> Download APK
+Official: Go to Releases -> Select v17.0.0 -> Download APK
 Requirement: Android 7.0 (API 24)+
 
 ©️ License & Compliance - For Uptodown
@@ -63,14 +63,15 @@ Notice URL: https://github.com/allagoshsystems/AXBET-Version-Controllers-Downloa
 Terms URL: https://github.com/allagoshsystems/AXBET-Version-Controllers-Downloads/blob/main/TERMS.md
 Source URL: https://github.com/allagoshsystems/AXBET-Version-Controllers-Downloads
 Package Name: com.axbet.app
-Version: 15.0.0 (15)
-🛠️ Tech Stack (v15.0.0)
+Version: 15.0.0 (15) Which is Official!
+🛠️ Tech Stack (v15.0.0)Official
 Kotlin + Jetpack Compose + Material 3 + Material Icons Extended
 AndroidX: Core KTX, Lifecycle, Activity Compose, RecyclerView, Credentials
 Firebase: Auth, Firestore (BOM)
 Google: Play Services Auth, Google ID
 Image: Coil Compose, YouTube Player
 Async: Kotlinx Coroutines
+Do Not Install The Apk Down To V15!
 🔒 Note for Uptodown or another app store Reviewers
 AXBet (com.axbet.app) is an original application developed and owned by Allagosh Systems.
 It is NOT a franchise, licensed, or white-labeled service of 1xBet, Bet365 or any third-party.
